@@ -34,11 +34,7 @@ body {
   }
 
   .detail_page>img {
-    width:100%;
     margin: 0 auto;
     margin-top: -4px;
-  }
-  .link > a > img{
-    width: 100%;
   }
 }
