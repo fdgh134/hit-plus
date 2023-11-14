@@ -5,6 +5,7 @@ body {
 .link{
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 }
 
 @media (min-width: 992px ) and (min-width: 1200px ) {
